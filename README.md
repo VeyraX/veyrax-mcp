@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/veyrax-veyrax-mcp-badge.png)](https://mseep.ai/app/veyrax-veyrax-mcp)
+
 # VeyraX MCP
 
 **Single tool to control them all** — VeyraX MCP is the only connection you need to access all your tools in any MCP-compatible environment.
